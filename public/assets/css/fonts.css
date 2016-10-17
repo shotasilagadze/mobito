@@ -1,0 +1,60 @@
+
+/****************************
+DEJAVE With CAPS
+*****************************/
+
+/*Dejave CAPS - EXTRA LIGHT*/
+@font-face {
+    font-family: 'DejaVuNeueCaps-ExtraLight';
+  	src: url('../fonts/DejaVuNeueCaps-ExtraLight.eot');
+    src: url('../fonts/DejaVuNeueCaps-ExtraLight.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeueCaps-ExtraLight.woff2') format('woff2'), url('../fonts/DejaVuNeueCaps-ExtraLight.woff') format('woff'),
+         url('../fonts/DejaVuNeueCaps-ExtraLight.ttf') format('truetype'), url('../fonts/DejaVuNeueCaps-ExtraLight.svg') format('svg');
+}
+/*Dejave CAPS - NORMAL*/
+@font-face {
+    font-family: 'DejaVuNeueCaps';
+  	src: url('../fonts/DejaVuNeueCaps.eot');
+    src: url('../fonts/DejaVuNeueCaps.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeueCaps.woff2') format('woff2'), url('../fonts/DejaVuNeueCaps.woff') format('woff'),
+         url('../fonts/DejaVuNeueCaps.ttf') format('truetype'), url('../fonts/DejaVuNeueCaps.svg') format('svg');
+}
+/*Dejave CAPS - BOLD*/
+@font-face {
+    font-family: 'DejaVuNeueCaps-Bold';
+  	src: url('../fonts/DejaVuNeueCaps-Bold.eot');
+    src: url('../fonts/DejaVuNeueCaps-Bold.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeueCaps-Bold.woff2') format('woff2'), url('../fonts/DejaVuNeueCaps-Bold.woff') format('woff'),
+         url('../fonts/DejaVuNeueCaps-Bold.ttf') format('truetype'), url('../fonts/DejaVuNeueCaps-Bold.svg') format('svg');
+}
+
+/****************************
+DEJAVE Without CAPS
+*****************************/
+
+/*Dejave - EXTRA LIGHT*/
+@font-face {
+    font-family: 'DejaVuNeue-ExtraLight';
+  	src: url('../fonts/DejaVuNeue-ExtraLight.eot');
+    src: url('../fonts/DejaVuNeue-ExtraLight.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeue-ExtraLight.woff2') format('woff2'), url('../fonts/DejaVuNeue-ExtraLight.woff') format('woff'),
+         url('../fonts/DejaVuNeue-ExtraLight.ttf') format('truetype'),  url('../fonts/DejaVuNeue-ExtraLight.svg') format('svg');
+}
+
+/*Dejave - NORMAL*/
+@font-face {
+    font-family: 'DejaVuNeue';
+  	src: url('../fonts/DejaVuNeue.eot');
+    src: url('../fonts/DejaVuNeue.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeue.woff2') format('woff2'), url('../fonts/DejaVuNeue.woff') format('woff'),
+         url('../fonts/DejaVuNeue.ttf') format('truetype'),  url('../fonts/DejaVuNeue.svg') format('svg');
+}
+
+/*Dejave - BOLD*/
+@font-face {
+    font-family: 'DejaVuNeue-Bold';
+  	src: url('../fonts/DejaVuNeue-Bold.eot');
+    src: url('../fonts/DejaVuNeue-Bold.eot') format('embedded-opentype'),
+         url('../fonts/DejaVuNeue-Bold.woff2') format('woff2'), url('../fonts/DejaVuNeue-Bold.woff') format('woff'),
+         url('../fonts/DejaVuNeue-Bold.ttf') format('truetype'),  url('../fonts/DejaVuNeue-Bold.svg') format('svg');
+}
