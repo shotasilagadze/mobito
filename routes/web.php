@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'IndexController@home');
+Route::get('/add','IndexController@add');

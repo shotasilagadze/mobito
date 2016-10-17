@@ -23,7 +23,10 @@ class IndexController extends Controller {
         return view('home');
     }
 
+    public function add(Request $request){
+    	return view('add');
+    }
 
-
+    
 
 }
