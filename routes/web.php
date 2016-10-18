@@ -13,3 +13,5 @@
 
 Route::get('/', 'IndexController@home');
 Route::get('/add','IndexController@add');
+Route::get('/login','IndexController@login');
+Route::get('/mobile','IndexController@mobile');

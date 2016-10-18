@@ -27,6 +27,15 @@ class IndexController extends Controller {
     	return view('add');
     }
 
+    public function login(Request $request){
+        return view('loginpage');
+    }
+
+
+    public function mobile(Request $request){
+        return view('mobile');
+    }
+    
     
 
 }

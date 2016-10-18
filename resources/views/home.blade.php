@@ -3,7 +3,9 @@
     <div class="footer_fixator">
 
       @include('header')
-
+      
+<div id="status">
+</div>
       <div class="search_bg">
         <div class="container">
 
@@ -74,69 +76,17 @@
       </div>
 
       <div class="container">
-        <!-- Single Product -->
-        <div class="single_mob">
-          <div class="img_space">
-            <img src="http://images.thehollywoodgossip.com/iu/s--_jtYGA2x--/t_large_p/f_auto,fl_lossy,q_75/v1424706438/irina-shayk-oscar-photo.jpg" alt="" />
-          </div>
-          <div class="info">
-            <h2>iPhone 7</h2>
-            <p>Apple</p>
-          </div>
-          <span class="price">650$</span>
-          <!-- Hover -->
-          <div class="hover">
-            <div class="details">
-              <!-- mps -->
-              <div class="single col-xs-12">
-                <div class="icon android"></div>
-                <span>Android</span>
-              </div>
-              <!-- mps -->
-              <!-- mps -->
-              <div class="single col-xs-4">
-                <div class="icon mp"></div>
-                <span>12MP</span>
-              </div>
-              <!-- mps -->
-              <!-- gb -->
-              <div class="single col-xs-4">
-                <div class="icon gb"></div>
-                <span>32GB</span>
-              </div>
-              <!-- gb -->
-              <!-- inch -->
-              <div class="single col-xs-4">
-                <div class="icon inch"></div>
-                <span>5.2 <span>inch</span></span>
-              </div>
-              <!-- inch -->
-              <!-- gb -->
-              <div class="single col-xs-4 col-xs-offset-2">
-                <div class="icon mah"></div>
-                <span>2700 <span>mAh</span></span>
-              </div>
-              <!-- gb -->
-              <!-- inch -->
-              <div class="single col-xs-4">
-                <div class="icon ram"></div>
-                <span>2 GB</span>
-              </div>
-              <!-- inch -->
-            </div>
-            <div class="view">
-              <a href="#"><span>დეტალურად</span></a>
-            </div>
-          </div>
-          <!-- Hover (END) -->
-        </div>
-        <!-- Single Product (END) -->
+       
 
         <!-- Single Product -->
         <div class="single_mob">
+        
           <div class="img_space">
+          
             <img src="http://images.thehollywoodgossip.com/iu/s--_jtYGA2x--/t_large_p/f_auto,fl_lossy,q_75/v1424706438/irina-shayk-oscar-photo.jpg" alt="" />
+
           </div>
+          
           <div class="info">
             <h2>iPhone 7</h2>
             <p>Apple</p>
@@ -183,7 +133,7 @@
               <!-- inch -->
             </div>
             <div class="view">
-              <a href="#"><span>დეტალურად</span></a>
+              <a href="/mobile"><span>დეტალურად</span></a>
             </div>
           </div>
           <!-- Hover (END) -->
